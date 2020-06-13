@@ -1,2 +1,5 @@
 # lora_academy
-LoRa Summer Virutla Academy 
+LoRa Summer Virtual Academy 
+
+# Setting up Gateways 
+# Setting up Nodes
