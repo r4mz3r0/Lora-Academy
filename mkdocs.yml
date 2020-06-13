@@ -1,0 +1,6 @@
+site_name: LoRa Network Virtual Academy
+
+nav:
+    - Lessons: index.md
+    - Discussions: notes.md
+    - About: about.md
