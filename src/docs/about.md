@@ -25,15 +25,23 @@
 Hello LoRa Network students, welcome to this summer virtual academy. 
 This academy was made possibly by University of California, Merced Center for Educational Partnership
 ## Ramiro Gonzalez 
-<img src="/../images/ramiro.jpg" width="300" height="300"/>
+<img src="./../images/ramiro.jpg" width="300" height="300"/>
 
 <!-- <center><div class="user one"></div></center> --->
 
 
 
 ## Julian Grado 
-<img src="/../images/julian.jpg" width="300" height="300"/>
+<img src="./../images/julian.jpg" width="300" height="300"/>
 
 
 ## Solomon Denning
-<img src="/../images/solomon.jpg" width="300" height="300"/>
+<img src="./../images/solomon.jpg" width="300" height="300"/>
+
+# LoRa Virtual Academy Proposal (Awarded) 
+The following proposal was awarded funding by UC Merced Center for Educational Partnerships
+<iframe src="https://ucmerced.app.box.com/embed/s/5u98hq3h9jy8m6r6oef4jq4vo9pyd6j8?sortColumn=date&view=list" width="650" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+## Description of Milestones and Outcomes
+
+<iframe src="https://ucmerced.app.box.com/embed/s/cyegeyrjzhgd6s9madxctcd8unqsi95v?sortColumn=date&view=list" width="650" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
