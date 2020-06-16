@@ -31,11 +31,6 @@ This academy was made possibly by University of California, Merced Center for Ed
 
 
 
-
-
-### About Myself
-I graduated from UC Merced with a Computer Science and Engineering, B.S
-
 ## Julian Grado 
 <img src="/../images/julian.jpg" width="300" height="300"/>
 

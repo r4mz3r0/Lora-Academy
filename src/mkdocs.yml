@@ -1,6 +1,7 @@
 site_name: LoRa Network Virtual Academy
 
 nav:
-    - Lessons: index.md
-    - Discussions: notes.md
+    - Discussions: index.md
+    - Lessons: discussion.md
+    - Gateway: gateway.md
     - About: about.md

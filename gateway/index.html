@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>About - LoRa Network Virtual Academy</title>
+        <title>Gateway - LoRa Network Virtual Academy</title>
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -39,11 +39,11 @@
                             <li class="navitem">
                                 <a href="../discussion/" class="nav-link">Lessons</a>
                             </li>
-                            <li class="navitem">
-                                <a href="../gateway/" class="nav-link">Gateway</a>
-                            </li>
                             <li class="navitem active">
-                                <a href="./" class="nav-link">About</a>
+                                <a href="./" class="nav-link">Gateway</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../about/" class="nav-link">About</a>
                             </li>
                         </ul>
 
@@ -54,12 +54,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../gateway/" class="nav-link">
+                                <a rel="prev" href="../discussion/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" class="nav-link disabled">
+                                <a rel="next" href="../about/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -81,20 +81,18 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#welcome-to-lora-network-virtual-academy" class="nav-link">Welcome to LoRa Network Virtual Academy</a>
-              <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#ramiro-gonzalez" class="nav-link">Ramiro Gonzalez</a>
+            <li class="nav-item" data-level="1"><a href="#install-arduino-ide-and-ch340-driver" class="nav-link">Install Arduino IDE and CH340 driver</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#julian-grado" class="nav-link">Julian Grado</a>
+            
+            <li class="nav-item" data-level="1"><a href="#lg01-n-gateway" class="nav-link">LG01-N Gateway</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#solomon-denning" class="nav-link">Solomon Denning</a>
+            
+            <li class="nav-item" data-level="1"><a href="#julian-grados-reflection-of-setting-up-lora" class="nav-link">Julian Grado's Reflection of Setting Up LoRa</a>
               <ul class="nav flex-column">
-              </ul>
-            </li>
               </ul>
             </li>
         </ul>
@@ -102,40 +100,51 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<style>
-.user {
-  display: inline-block;
-  width: 250px;
-  height: 250px;
+<h1 id="install-arduino-ide-and-ch340-driver">Install Arduino IDE and CH340 driver</h1>
+<h3 id="installing-arduino-ide-a">Installing Arduino IDE a</h3>
+<ol>
+<li>https://www.arduino.cc/en/main/software </li>
+<li>(Linux)Using the command line </li>
+</ol>
+<pre><code class="bash">sudo apt install arduino 
+</code></pre>
 
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-.one {
-  background-image: src='julian.jpg';
-}
-
-.two {
-  background-image: url('http://placehold.it/200x200');
-}
-
-.three {
-  background-image: url('http://placehold.it/200x400');
-}
-</style>
-
-<h1 id="welcome-to-lora-network-virtual-academy">Welcome to LoRa Network Virtual Academy</h1>
-<p>Hello LoRa Network students, welcome to this summer virtual academy. 
-This academy was made possibly by University of California, Merced Center for Educational Partnership</p>
-<h2 id="ramiro-gonzalez">Ramiro Gonzalez</h2>
-<p><img src="./../images/ramiro.jpg" width="300" height="300"/></p>
-<!-- <center><div class="user one"></div></center> --->
-
-<h2 id="julian-grado">Julian Grado</h2>
-<p><img src="./../images/julian.jpg" width="300" height="300"/></p>
-<h2 id="solomon-denning">Solomon Denning</h2>
-<p><img src="./../images/solomon.jpg" width="300" height="300"/></p></div>
+<ol>
+<li>CH340 Driver: https://sparks.gogo.co.nz/ch340.html (Make sure the arduino uno is connected when installing the driver)</li>
+<li>Tools -&gt; Board -&gt; Arduino Uno </li>
+<li>Tools -&gt; PORT -&gt; COM4 (May be different, for windows check device manager -&gt; COMM &amp; LP -&gt; USB-SERIAL CH340 (COM?)</li>
+</ol>
+<h1 id="lg01-n-gateway">LG01-N Gateway</h1>
+<p>Things you will need: LG01-N and RJ45 cable (Ethernet Cable)</p>
+<ol>
+<li>Configure LG01-N for internet connection </li>
+</ol>
+<h1 id="julian-grados-reflection-of-setting-up-lora">Julian Grado's Reflection of Setting Up LoRa</h1>
+<p>My History Process with the LORA:
+1. I received the package continuing the LORA Kit. </p>
+<ol>
+<li>I brought it into my room and began opening each item</li>
+<li>Each group of items was photographed </li>
+<li>Each photograph was given to Ramiro Gonzalez</li>
+<li>I began to look on youtube on how to program and assemble the kit, sadly no luck.</li>
+<li>I went on the Draginuo website and found the user manual and began to program and assemble based off of the steps and images. </li>
+<li>The kit required at the start Arduino and a drivers download so the computer can detect when an item from the kit is connected wirelessly or through the USB port. </li>
+<li>I have a mac and finding how to download the drivers software was difficult. </li>
+<li>I found this website with a video and preexisting commands for my terminal so i can download and install</li>
+<li>It didn't do anything, I tried it twice, and my computer still wasn't picking it up</li>
+<li>I asked my team for some help and I had to wait a couple days until they figured it out. </li>
+<li>Armaan found this website that didn't need the terminal, and I downloaded it. </li>
+<li>The driver worked and my computer could detect the devices from the kit </li>
+<li>Next on the instructions we moved to making a gateway. </li>
+<li>This involved connecting to the LGO-1 N network and using the http://10.130.1.1/cgi-bin/luci/admin link </li>
+<li>I needed to scan for my home internet connection and connect it. </li>
+<li>I had to disable the previous LGO-1 N connection</li>
+<li>Once i tried to connect to my home internet, my LGO-1 N crashed and said it failed to back up</li>
+<li>I tired to stop it from doing that bty redoing the steps multiple times but it kept crashing</li>
+<li>It disconnected me from the LGO-1N and kept connecting to my internet, this was supposed to happen but at a later step. 
+  -It kept asking me to do “ add the next back up” , so I did think it would change the outcome, but by doing so it just made my LGO-1N undetectable and now I can’t connect to it. </li>
+<li>THat is where i am now, stuck on step ⅘  on the instructions on making a gateway. </li>
+</ol></div>
             </div>
         </div>
 
