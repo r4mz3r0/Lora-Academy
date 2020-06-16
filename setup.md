@@ -19,7 +19,7 @@ Things you will need: LG01-N and RJ45 cable
 
 
 
-## Julian Grado's Reflection of Setting Up LoRa 
+# Julian Grado's Reflection of Setting Up LoRa 
 
 My History Process with the LORA:
 1. I received the package continuing the LORA Kit. 
