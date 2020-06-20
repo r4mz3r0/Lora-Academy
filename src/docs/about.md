@@ -45,3 +45,7 @@ The following proposal was awarded funding by UC Merced Center for Educational P
 
 <iframe src="https://ucmerced.app.box.com/embed/s/cyegeyrjzhgd6s9madxctcd8unqsi95v?sortColumn=date&view=list" width="650" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+## Sources 
+
+- Seneviratne, P. (2019). Beginning LoRa radio networks with Arduino: Build long range, low power wireless IoT networks. Berkeley, CA: Apress.
+
