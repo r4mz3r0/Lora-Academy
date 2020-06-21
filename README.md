@@ -16,3 +16,7 @@ Contains the approved proposal submitted to UCM CEP that details the milestones 
 The LoRa academy site was built using the following technologies 
 
 - MkDocs, HTML, CSS, JavaScript 
+
+## Sources 
+
+- Seneviratne, P. (2019). Beginning LoRa radio networks with Arduino: Build long range, low power wireless IoT networks. Berkeley, CA: Apress.
