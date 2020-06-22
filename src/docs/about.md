@@ -29,14 +29,16 @@ This academy was made possibly by University of California, Merced Center for Ed
 
 <!-- <center><div class="user one"></div></center> --->
 
-
+## Armaan Kapoor 
+<img src="./../images/armaan.jpg" width="300" height="300">
+## Solomon Denning
+<img src="./../images/solomon.jpg" width="300" height="300"/>
 
 ## Julian Grado 
 <img src="./../images/julian.jpg" width="300" height="300"/>
 
 
-## Solomon Denning
-<img src="./../images/solomon.jpg" width="300" height="300"/>
+
 
 # LoRa Virtual Academy Proposal (Awarded) 
 The following proposal was awarded funding by UC Merced Center for Educational Partnerships
