@@ -15,3 +15,15 @@ A toaster is IoT if and only if it is able to connect to the internet and transm
   <dt>Bandwidth</dt>
   <dd>The capacity for data transfer of an electronic communications system  <i>https://www.merriam-webster.com/dictionary/bandwidth</i>.</dd>
 </dl>
+
+# Lesson 2: Network 
+
+1. Recap: What is LoRa? LoRa stands for long-range. 
+2. LoRa and LoRaWan 
+- Low power communication 
+- Affordable communication
+- Future of technology 
+3. The Microprocessor 
+
+## Assignment 2: Websearch 
+Answer questions about LoRa using the internet. 
