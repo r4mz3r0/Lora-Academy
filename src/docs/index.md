@@ -18,12 +18,18 @@ A toaster is IoT if and only if it is able to connect to the internet and transm
 
 # Lesson 2: Network 
 
+Building a LoRa Gateway and End Node
+ 
 1. Recap: What is LoRa? LoRa stands for long-range. 
 2. LoRa and LoRaWan 
-- Low power communication 
-- Affordable communication
-- Future of technology 
+	- Low power communication 
+	- Affordable communication
+	- Future of technology 
 3. The Microprocessor 
+	- No matter what we are building-Gateway or end Noode the device needs to have a microprocessor to control it. 
+	- Raspberry Pi's and Arduino's are well known microprocessors. 
+	- Eventually build nodes using a microprocessor. 
+
 
 ## Assignment 2: Websearch 
 Answer questions about LoRa using the internet. 
