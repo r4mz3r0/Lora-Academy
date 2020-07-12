@@ -23,6 +23,7 @@
 </style>
 # Welcome to LoRa Network Virtual Academy
 Hello LoRa Network students, welcome to this summer virtual academy. 
+- Virtual Academy <a href="./Documentation/vitural academy guidelines.pdf">Guidelines </a>
 This academy was made possibly by Tech+Equation, INC and the University of California, Merced Center for Educational Partnership
 ## Ramiro Gonzalez 
 <img src="./../images/ramiro.jpg" width="300" height="300"/>
