@@ -23,16 +23,17 @@
 </style>
 # Welcome to LoRa Network Virtual Academy
 Hello LoRa Network students, welcome to this summer virtual academy. 
-This academy was made possibly by University of California, Merced Center for Educational Partnership
+This academy was made possibly by Tech+Equation, INC and the University of California, Merced Center for Educational Partnership
 ## Ramiro Gonzalez 
 <img src="./../images/ramiro.jpg" width="300" height="300"/>
 
 <!-- <center><div class="user one"></div></center> --->
-
-## Armaan Kapoor 
-<img src="./../images/armaan.jpg" width="300" height="300">
 ## Solomon Denning
 <img src="./../images/solomon.jpg" width="300" height="300"/>
+
+## Armaan Kapoor 
+<img src="./../images/armaan.jpeg" width="300" height="300">
+
 
 ## Julian Grado 
 <img src="./../images/julian.jpg" width="300" height="300"/>
